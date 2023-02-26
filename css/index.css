@@ -1,0 +1,23 @@
+body{
+    background-image: url(../img/imager_1_64392_700.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.item4{
+    margin-bottom: 37px;
+}
+.item6{
+    margin-bottom: 30px;
+}
+.title{
+    left: 0;
+    width: 100%;
+    position: fixed;
+    z-index: 1000;
+}
+.item1{
+    padding-top: 100px;
+}
+.title2 h2{
+    color: rgb(132, 4, 4);
+}
